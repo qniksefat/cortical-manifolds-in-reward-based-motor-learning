@@ -25,31 +25,6 @@ For further information or queries, feel free to contact us at jasongallivan@gma
 
 The code used to generate figures from the paper is available in the file `elife_submission.py`.
 
-## Notebooks
-
-The notebooks are in `large-manifold-nbs/` and are organized as follows:
-
-### Networks and Subnetworks
-- **Notebook 0:** Exploration of Yeo's 7 and 17 networks, including cortical and subcortical plots.
-
-### Connectivity Matrices
-- **Notebook 1:** Presentation of connectivity matrices and the centering process for computing gradients.
-
-### Gradients (Large-Scale Manifolds)
-- **Notebook 2:** Gradient values and visualizations, including 3D plots.
-  
-  ![Gradient Visualization](https://github.com/qniksefat/gradient-notebooks/blob/master/large-manifold-nbs/plots/g-regions.png?raw=true)
-
-### Statistical Analysis
-- **Notebook 3:** Statistical analysis of the data.
-
-### Post-hoc Seed Connectivity
-- **Notebook 4:** Analysis of post-hoc seed connectivity.
-  
-  ![Seed Connectivity](https://github.com/qniksefat/gradient-notebooks/blob/master/large-manifold-nbs/plots/fig4.png?raw=true)
-
-### Behaviour (Task Scores)
-- **Notebook 5:** Examination of individual differences in performance.
 
 ## Neuro Package Dependencies
 
